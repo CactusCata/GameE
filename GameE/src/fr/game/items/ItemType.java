@@ -1,0 +1,7 @@
+package fr.game.items;
+
+public enum ItemType {
+
+	WOODEN_SWORD, STONE_SWORD, IRON_SWORD, DIRT, STONE, IRON_HELMET, IRON_CHESTPLATE, IRON_LEGGINGS, IRON_BOOTS;
+
+}
